@@ -4,8 +4,8 @@ The Electric Vehicle (EV) industry is undergoing rapid transformation, driven by
 ## Steps Involved:
 Data Import and Cleaning:
 
--Imported necessary libraries (pandas, numpy, matplotlib, seaborn).
-*Loaded the EV population dataset.
+- Imported necessary libraries (pandas, numpy, matplotlib, seaborn).
+* Loaded the EV population dataset.
 *Handled missing values in the dataset.
 
 <br>Exploratory Data Analysis (EDA):
