@@ -2,6 +2,7 @@
 The Electric Vehicle (EV) industry is undergoing rapid transformation, driven by technological advancements, environmental concerns, and evolving consumer preferences. This repository offers a comprehensive analysis of EV market dynamics.
 
 ## Steps Involved:
+The dataset [Electric_Vechicle_Population_Data](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69) was obtained from data.gov .
 Data Import and Cleaning:
 
 * Imported necessary libraries (pandas, numpy, matplotlib, seaborn).
@@ -21,9 +22,9 @@ Data Import and Cleaning:
 * Visualized the actual and forecasted market size.
 
 <br>Insights Obtained:
-<br>A significant increase in EV registrations since 2010.
-<br>Geographical disparities in EV adoption.
-<br>Preference of BEVs over PHEVs.
-<br>Tesla as a leading EV manufacturer with popular models.
-<br>Improvement electric range over time.
-<br>A promising forecast for EV market growth.
+* A significant increase in EV registrations since 2010.
+* Geographical disparities in EV adoption.
+* Preference of BEVs over PHEVs.
+* Tesla as a leading EV manufacturer with popular models.
+* Improvement electric range over time.
+* A promising forecast for EV market growth.
