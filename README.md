@@ -3,7 +3,7 @@ The Electric Vehicle (EV) industry is undergoing rapid transformation, driven by
 
 ## Steps Involved:
 The dataset [Electric_Vechicle_Population_Data](https://catalog.data.gov/dataset/electric-vehicle-population-data/resource/fa51be35-691f-45d2-9f3e-535877965e69) was obtained from data.gov .
-Data Import and Cleaning:
+<br>Data Import and Cleaning:
 
 * Imported necessary libraries (pandas, numpy, matplotlib, seaborn).
 * Loaded the EV population dataset.
